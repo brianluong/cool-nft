@@ -2,7 +2,7 @@
 // Learn more: https://solidity.readthedocs.io/en/v0.5.10/layout-of-source-files.html#pragma
 pragma solidity ^0.7.0;
 
-contract DulceNFT {
+contract CoolContract {
 
   string public message;
 
